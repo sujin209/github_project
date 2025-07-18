@@ -1,6 +1,6 @@
 function Login() {
   return (
-    <div>Login</div>
+    <div>로그인기능구현</div>
   )
 }
 
