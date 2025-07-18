@@ -1,0 +1,6 @@
+# blankIssue 없어지게해주는거
+blank_issues_enabled : false
+contact-links : 
+   name : 질문은 discussion에서 !
+   url : https://github.com/sujin209/github_project/discussions
+   about : 지룬이나 일반적인 논의는 discussion 탭을 이용해주세요
